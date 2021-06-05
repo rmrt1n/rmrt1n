@@ -7,6 +7,18 @@ I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu
 
 ### Languages and Technologies
 <p>
+  <img src="icons/c.svg" alt="c" height="40">
+  <img src="icons/python.svg" alt="python" height="40">
+  <img src="icons/r.svg" alt="r" height="40">
+  <img src="icons/scheme.svg" alt="scheme" height="40">
+  <img src="icons/html.svg" alt="html" height="40">
+  <img src="icons/css.svg" alt="css" height="40">
+  <img src="icons/sqlite.svg" alt="sqlite" height="40">
+  <img src="icons/linux.svg" alt="linux" height="40">
+  <img src="icons/bash.svg" alt="bash" height="40">
+  <img src="icons/git.svg" alt="git" height="40">
+  <img src="icons/docker.svg" alt="docker" height="40">
+  <img src="icons/vim.svg" alt="vim" height="40">
 </p>
 
 <!--
