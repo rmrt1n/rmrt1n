@@ -10,6 +10,7 @@ I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu
   <img src="icons/c.svg" alt="c" height="40">
   <img src="icons/python.svg" alt="python" height="40">
   <img src="icons/r.svg" alt="r" height="40">
+  <img src="icons/scheme.svg" alt="scheme" height="40">
   <img src="icons/html.svg" alt="html" height="40">
   <img src="icons/css.svg" alt="css" height="40">
   <img src="icons/sqlite.svg" alt="sqlite" height="40">
