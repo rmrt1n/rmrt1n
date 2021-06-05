@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu.my).
+- 🔭 I’m currently working on **[parsers](https://github.com/rmrt1n/parsers)**
+- 🌱 I’m currently learning **systems programming**
+- 👯 I’m looking to collaborate on **linux applications**
+- 💬 Ask me about ***anything***
+
+### Languages and Technologies
+<p>
+</p>
 
 <!--
 **rmrt1n/rmrt1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
