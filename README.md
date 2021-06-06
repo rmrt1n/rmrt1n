@@ -7,20 +7,23 @@ I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu
 
 ### Languages and Technologies
 <p>
-  <img src="icons/c.svg" alt="c" height="40">
-  <img src="icons/python.svg" alt="python" height="40">
-  <img src="icons/r.svg" alt="r" height="40">
-  <img src="icons/scheme.svg" alt="scheme" height="40">
-  <img src="icons/html.svg" alt="html" height="40">
-  <img src="icons/css.svg" alt="css" height="40">
-  <img src="icons/sqlite.svg" alt="sqlite" height="40">
-  <img src="icons/linux.svg" alt="linux" height="40">
-  <img src="icons/bash.svg" alt="bash" height="40">
-  <img src="icons/git.svg" alt="git" height="40">
-  <img src="icons/docker.svg" alt="docker" height="40">
-  <img src="icons/vim.svg" alt="vim" height="40">
+  <img alt="c" height="40" src="icons/c.svg">
+  <img alt="python" height="40" src="icons/python.svg">
+  <img alt="r" height="40" src="icons/r.svg">
+  <img alt="scheme" height="40" src="icons/scheme.svg">
+  <img alt="html" height="40" src="icons/html.svg">
+  <img alt="css" height="40" src="icons/css.svg">
+  <img alt="sqlite" height="40" src="icons/sqlite.svg">
+  <img alt="linux" height="40" src="icons/linux.svg">
+  <img alt="bash" height="40" src="icons/bash.svg">
+  <img  alt="git" height="40" src="icons/git.svg">
+  <img alt="docker" height="40" src="icons/docker.svg">
+  <img alt="vim" height="40" src="icons/vim.svg">
 </p>
-
+<details open>
+  <summary>:zap: GitHub Stats</summary>
+  <img alt="rmrt1n's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rmrt1n&show_icons=true&disable_animations=true">
+</details>
 <!--
 **rmrt1n/rmrt1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
