@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img align="right" width="200px" src="https://i.imgur.com/p0znjQv.gif">  
+
 I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu.my).
 - 🔭 I’m currently working on **[parsers](https://github.com/rmrt1n/parsers)**
 - 🌱 I’m currently learning **systems programming**
