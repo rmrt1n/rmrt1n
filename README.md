@@ -3,8 +3,8 @@
 
 I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu.my).
 - 🔭 I’m currently working on **my assignments**
-- 🌱 I’m currently learning **systems programming**
-- 👯 I’m looking to collaborate on **linux applications**
+- 🌱 I’m currently learning **devops**
+- 👯 I’m looking to collaborate on **developer tools**
 - 💬 Ask me about ***anything***
 
 ### Languages and Technologies
