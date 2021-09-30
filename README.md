@@ -2,7 +2,7 @@
 <img align="right" width="200px" src="https://i.imgur.com/p0znjQv.gif">  
 
 I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu.my).
-- 🔭 I’m currently working on **[this garbage collector](https://github.com/rmrt1n/cgc)**
+- 🔭 I’m currently working on **my assignments**
 - 🌱 I’m currently learning **systems programming**
 - 👯 I’m looking to collaborate on **linux applications**
 - 💬 Ask me about ***anything***
