@@ -12,13 +12,14 @@ I'm a computer science student at [Asia Pasific University](https://wwww.apu.edu
   <img alt="c" height="40" src="icons/c.svg">
   <img alt="python" height="40" src="icons/python.svg">
   <img alt="r" height="40" src="icons/r.svg">
-  <img alt="scheme" height="40" src="icons/scheme.svg">
   <img alt="html" height="40" src="icons/html.svg">
   <img alt="css" height="40" src="icons/css.svg">
-  <img alt="sqlite" height="40" src="icons/sqlite.svg">
+  <img alt="js" height="40" src="icons/js.svg">
+  <img alt="react" height="40" src="icons/react.svg">
+  <img alt="database" height="40" src="icons/database.svg">
   <img alt="linux" height="40" src="icons/linux.svg">
   <img alt="bash" height="40" src="icons/bash.svg">
-  <img  alt="git" height="40" src="icons/git.svg">
+  <img alt="git" height="40" src="icons/git.svg">
   <img alt="docker" height="40" src="icons/docker.svg">
   <img alt="vim" height="40" src="icons/vim.svg">
 </p>
