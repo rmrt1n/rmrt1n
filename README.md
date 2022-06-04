@@ -5,7 +5,7 @@ I'm a software developer with a passion for open source and building solutions w
 Currently studying computer science at [Asia Pasific University](https://wwww.apu.edu.my).
 
 - 🔭 I’m currently working on **my time management**
-- 🌱 I’m currently learning **[instructional design](https://www.instructionaldesign.org/)**
+- 🌱 I’m currently learning **ux**
 - 👯 I’m looking to collaborate on **developer tools**
 - 💬 Ask me about ***anything***
 - 📫 Reach me **[here](#-contact)**
