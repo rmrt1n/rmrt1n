@@ -15,7 +15,7 @@ Here are some stats for you to see
 <details open>
   <summary>:zap: Stats</summary>
   <img alt="rmrt1n's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rmrt1n&show_icons=true&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrt1n&layout=compact&hide=html,jupyter%20notebook&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrt1n&layout=compact&hide=html&langs_count=10">
 </details>
 
 ## 💻 Tech Stack
