@@ -13,7 +13,7 @@ projects.
 - **[Clam.css](https://github.com/rmrt1n/clam.css)**: A good looking (almost) 
   classless CSS library
 - **[Beru](https://github.com/rmrt1n/beru)** &
-  [Grape](https://github.com/rmrt1n/grape)**: Eliability accounting systems for 
+  **Grape](https://github.com/rmrt1n/grape)**: Eliability accounting systems for 
   the construction and palm oil industries
 - **[Seacucumber](https://github.com/rmrt1n/seacucumber)**: A toy interpreter for a 
   language inspired by OCaml & Scheme
