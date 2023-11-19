@@ -10,7 +10,7 @@ projects.
 #### Some of the projects I've worked on:
 - **[Karcis](https://karcis.biz)**: An event ticketing software for small to 
   mid-sized event organizers.
-- **[Clam.css](https://github.com/rmrt1n/clam.css)**: A good looking (almost) 
+- **[Clam.css](https://github.com/rmrt1n/clam.css)**: A good looking, (almost) 
   classless CSS library
 - **[Beru](https://github.com/rmrt1n/beru)** &
   **[Grape](https://github.com/rmrt1n/grape)**: Eliability accounting systems for 
