@@ -35,6 +35,6 @@ projects.
   **[writeups](https://github.com/rmrt1n/overthewire-solutions)**
 
 #### What I use:
-I edit `^.+\.(clj|css|c|rs|py|html|jsx|js|tsx|ts|svelte|sh)$` files in vim and 
+I edit `^.+\.(clj|css|c|go|rs|py|html|jsx|js|tsx|ts|svelte|sh)$` files in vim and 
 store data in `supabase|postgres|sqlite|xtdb` in a container on a Lenovo laptop 
 running **[Fedora Silverblue](https://fedoraproject.org/silverblue/)**.
